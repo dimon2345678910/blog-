@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+div {
+	width: 70%;
+	margin: auto;
+}
+img {
+	max-width: 900px;
+	height: auto;
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+p{
+	font-size: 22px;
+	font-family: Halvetica;
+	line-height: 1.65;
+}
+h1{
+	font-size: 48px;
+	font-family: Halveticf;
+	text-align: center;
+	padding-bottom: 40px;
+
+}
